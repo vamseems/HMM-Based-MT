@@ -859,7 +859,7 @@ htd21857	Like\IN the\DT Surajkund\NNP Fair\NNP the\DT Taj\NNP Festival\NNP is\VB
 htd21858	With\IN the\DT advent\NN of\IN spring\NN all\PDT the\DT colors\NNS get\VBP spread\VBN in\IN the\DT Taj\NNP city\NN Agra\NNP .\.
 htd21859	Festival\NNP takes\VBZ place\NN in\IN Shilpgram\NNP just\RB near\IN the\DT Taj\NNP Mahal\NNP .\.
 htd21860	The\DT start\NN of\IN the\DT festival\NN takes\VBZ place\NN with\IN the\DT spread\NN of\IN complete\JJ beauty\NN of\IN the\DT wealth\NN of\IN the\DT Mughal\NNP empire\NN .\.
-htd21861	Here\RB you\PRP will\MD get\VB to\TO see\VB the\DT work\NN of\IN marble\NN of\IN Argra\NNP ,\, wood\NN of\IN Saharanpur\NNP ,\, brass\NN of\IN Muradabad\NNP ,\, carpets\NNS of\IN Bhadohi\NNP ,\, soil\NN of\IN Khurja\NNP ,\, Chikan\NNP of\IN Lucknow\NNP ,\, silk\NN of\IN Banaras\NNP .. .\.
+htd21861	Here\RB you\PRP will\MD get\VB to\TO see\VB the\DT work\NN of\IN marble\NN of\IN Argra\NNP ,\, wood\NN of\IN Saharanpur\NNP ,\, brass\NN of\IN Muradabad\NNP ,\, carpets\NNS of\IN Bhadohi\NNP ,\, soil\NN of\IN Khurja\NNP ,\, Chikan\NNP of\IN Lucknow\NNP ,\, silk\NN of\IN Banaras\NNP .\. .\.
 htd21862	You\PRP will\MD get\VB to\TO taste\VB the\DT special\JJ cuisines\NNS of\IN all\PDT the\DT regions\NNS of\IN Uttar\NNP Pradesh\NNP .\.
 htd21863	Folk\NN Dance\NNP is\VBZ also\RB organised\VBN in\IN abundance\NN .\.
 htd21864	Here\RB you\PRP can\MD see\VB Nautanki\NNP ,\, snake\NN charmer\NN dance\NN of\IN Rajasthan\NNP too\RB and\CC also\RB Lavni\NNP of\IN Maharasthra\NNP ...\: just\RB in\IN the\DT same\JJ folk\NN style\NN as\IN it\PRP has\VBZ been\VBN happening\VBG since\IN centuries\NNS .\.

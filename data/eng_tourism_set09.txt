@@ -944,7 +944,7 @@ htd8942	Panchavati\NNP is\VBZ also\RB located\VBN near\IN Puranic\NNP Cave\NNP .
 htd8943	Panchavati\NNP is\VBZ a\DT sacred\JJ Hindu\NNP pilgrimage\NN .\.
 htd8944	In\IN Mukthidham\NNP Temple\NNP besides\IN the\DT statues\NNS of\IN Rama\NNP ,\, Lakshamana\NNP and\CC Sita\NNP the\DT statue\NN of\IN Lord\NNP Sri\NNP Sai\NNP Baba\NNP of\IN Shirdi\NNP is\VBZ also\RB installed\VBN .\.
 htd8945	Along\IN with\IN the\DT Tryambakeshwar\NNP temple\NN ,\, the\DT Brahmagiri\NNP mountain\NN and\CC 108\CD shivalingas\NNS built\VBN upon\IN it\PRP are\VBP major\JJ places\NNS and\CC caves\NNS of\IN faith\NN .\.
-htd8946	The\DT magnificent\JJ temple\NN of\IN goddess\NN Mother\NNP Saptashringi\NNP at\IN a\DT height\NN of\IN 5250\CD feet\NNS .. .\.
+htd8946	The\DT magnificent\JJ temple\NN of\IN goddess\NN Mother\NNP Saptashringi\NNP at\IN a\DT height\NN of\IN 5250\CD feet\NNS .\. .\.
 htd8947	Its\PRP$ three\CD dimensional\JJ shaktis\NNS are\VBP respectively\RB goddess\NN Khadga-Khappar\NNP Dharani\NNP Mother\NNP Kali\NNP ,\, riches\NNS provider\NN Mother\NNP Mahalakshmi\NNP and\CC all\DT knowledge\NN provider\NN Mother\NNP Mahasaraswati\NNP .\.
 htd8948	Sewagram\NNP Sthal\NNP is\VBZ famous\JJ because\IN of\IN Gandhi\NNP Ashram\NNP itself\PRP .\.
 htd8949	Gandhi\NNP Ashram\NNP was\VBD established\VBN by\IN the\DT Father\NNP of\IN the\DT Nation\NNP Mahatma\NNP Gandhi\NNP in\IN 1933\CD .\.

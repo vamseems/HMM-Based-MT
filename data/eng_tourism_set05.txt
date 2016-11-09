@@ -384,7 +384,7 @@ htd4382	Goa\NNP has\VBZ special\JJ interest\NN among\IN tourists\NNS .\.
 htd4383	While\IN days\NNS spend\VBP beside\IN beach\NN in\IN Goa\NNP the\DT evenings\NNS spend\VBP with\IN dance\NN and\CC music\NN .\.
 htd4384	Excellent\JJ residential\JJ facilities\NNS have\VBP been\VBN made\VBN available\JJ by\IN Goa\NNP Tourism\NNP Development\NNP Corporation\NNP Limited\NNP .\.
 htd4385	For\IN bookings\NNS in\IN Goa\NNP you\PRP can\MD contact\VB Tourism\NNP Development\NNP Corporation\NNP Limited\NNP ,\, Trinora\NNP Apartments\NNP ,\, Dr\NNP .\: Alvares\NNP Costa\NNP Road\NNP ,\, Panaji\NNP ,\, Goa\NNP -\: 403001\CD .\.
-htd4386	City\NN of\IN dreams\NNS is\VBZ Goa\NNP ...\: beach\NN surrounded\VBN by\IN coconut\NN trees\NNS ,\, wishful\JJ silence\NN and\CC sounds\NNS of\IN the\DT waves\NNS of\IN the\DT sea\NN ...\: in\IN such\PDT a\DT situation\NN one\NN wants\VBZ just\RB to\TO settle\VB there\RB .. .\.
+htd4386	City\NN of\IN dreams\NNS is\VBZ Goa\NNP ...\: beach\NN surrounded\VBN by\IN coconut\NN trees\NNS ,\, wishful\JJ silence\NN and\CC sounds\NNS of\IN the\DT waves\NNS of\IN the\DT sea\NN ...\: in\IN such\PDT a\DT situation\NN one\NN wants\VBZ just\RB to\TO settle\VB there\RB .\. .\.
 htd4387	Three\CD sixty\NN five\CD days\NNS a\DT year\NN Goa\NNP is\VBZ ready\JJ to\TO welcome\VB you\PRP .\.
 htd4388	The\DT people\NNS of\IN Goa\NNP are\VBP always\RB ready\JJ to\TO host\VB you\PRP .\.
 htd4389	In\IN every\DT weather\NN Goa\NNP has\VBZ something\NN special\JJ to\TO serve\VB you\PRP .\.

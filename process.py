@@ -1,6 +1,6 @@
 import re
 matrix = {}
-for i in xrange(1, 2):
+for i in xrange(1, 26):
 	idx = str(i)
 	
 	if len(idx) == 1:
@@ -24,16 +24,22 @@ for i in xrange(1, 2):
 			english_pos = english_tokens[k].split('\\')[1]
 
 			for l in xrange(0, len(hindi_tokens)):
-				print j
-				hindi_pos = re.findall('[A-Z _]{1,}', hindi_tokens[l])[0]
-				print filter(None, re.findall('[A-Z _]{1,}', hindi_tokens[l]))
+				hindi_nothindi = hindi_tokens[l].split('\\')
+				if(len(hindi_nothindi)==1):
+					
+					hindi_pos = re.findall('[A-Z _]{1,}', hindi_tokens[l])
+					hindi_token = re.split('[A-Z _]{2,}', hindi_tokens[l])[0]
 
-				if english_pos == '.' or hindi_pos == 'RD_PUNC':
+				else:
+					hindi_pos = hindi_tokens[l].split('\\')[1]
+					hindi_token = hindi_tokens[l].split('\\')[0]
+
+
+				# print english_token,english_pos,hindi_token,hindi_pos,i,j
+
+				if english_pos == '.' or english_pos == ',' or hindi_pos == 'RD_PUNC' or hindi_pos == 'RD_SYM':
 					continue
-
-				hindi_token = re.split('[A-Z _]*', hindi_tokens[l])[0]
-				if hindi_token[-1] == '\\':
-					hindi_token = hindi_token[:-1]
+		
 
 				try:
 				    matrix[english_token][hindi_token] += 1

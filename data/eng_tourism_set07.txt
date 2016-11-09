@@ -283,7 +283,7 @@ htd6281	In\IN 12\CD .\.D Euros\NNP buy\NN metro\NN tickets\NNS .\.
 htd6282	Entrance\NN free\JJ in\IN Louvre\NNP museum\NN .\.
 htd6283	Excursion\NN to\TO Paris\NNP -\: approximately\RB in\IN 65\CD .\.D Euros\NNP .\.
 htd6284	A\DT joy\NN like\IN being\VBG in\IN tune\NN found\VBN in\IN the\DT lap\NN of\IN the\DT nature\NN .\.
-htd6285	Anoushka\NNP Shankar\NNP told\VBD Spriha\NNP Srivastava\NNP about\IN the\DT harmonious\JJ and\CC beautiful\JJ evenings\NNS spent\VBN in\IN Kopanang\NNP and\CC Goa\NNP .. .\.
+htd6285	Anoushka\NNP Shankar\NNP told\VBD Spriha\NNP Srivastava\NNP about\IN the\DT harmonious\JJ and\CC beautiful\JJ evenings\NNS spent\VBN in\IN Kopanang\NNP and\CC Goa\NNP .\. .\.
 htd6286	For\IN enjoying\VBG holidays\NNS where\WRB do\VBP you\PRP like\VB to\TO go\VB ?\.
 htd6287	Without\IN losing\VBG any\DT moments\NNS I\PRP would\MD like\VB to\TO take\VB the\DT name\NN of\IN Goa\NNP .\.
 htd6288	Like\IN to\TO go\VB frequently\RB to\TO Goa\NNP and\CC spend\VB the\DT best\JJS holidays\NNS in\IN less\JJR money\NN .\.

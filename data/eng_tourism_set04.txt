@@ -471,7 +471,7 @@ htd3469	From\IN the\DT roof\NN of\IN the\DT gompa\NN tried\VBD to\TO see\VB the\
 htd3470	Maybe\RB on\IN going\VBG more\RBR ahead\RB from\IN here\RB viewing\VBG would\MD have\VB happened\VBN .\.
 htd3471	The\DT map\NN of\IN Karzok\NNP is\VBZ changing\VBG with\IN the\DT new\JJ buildings\NNS constructed\VBN of\IN concrete\NN according\VBG to\TO the\DT usage\NN of\IN the\DT cities\NNS .\.
 htd3472	Its\PRP$ obvious\JJ that\IN in\IN this\DT way\NN there\EX can\MD be\VB infiltration\NN unknowingly\RB in\IN the\DT natural\JJ beauty\NN and\CC tradition\NN of\IN the\DT village\NN .\.
-htd3473	Seeing\VBG this\DT from\IN the\DT roof\NN of\IN Gompa\NNP wished\VBD that\IN if\IN there\EX remained\VBD fixed\VBN a\DT traditional\JJ culture\NN here\RB instead\RB of\IN modern\JJ culture\NN then\RB .. .\. such\PDT a\DT unique\JJ view\NN would\MD have\VB been\VBN seen\VBN .\.
+htd3473	Seeing\VBG this\DT from\IN the\DT roof\NN of\IN Gompa\NNP wished\VBD that\IN if\IN there\EX remained\VBD fixed\VBN a\DT traditional\JJ culture\NN here\RB instead\RB of\IN modern\JJ culture\NN then\RB .\. .\. such\PDT a\DT unique\JJ view\NN would\MD have\VB been\VBN seen\VBN .\.
 htd3474	Tsomoriri\NNP situated\VBD in\IN Rupshu\NNP valley\NN is\VBZ a\DT cultural\JJ area\NN .\.
 htd3475	Therefore\RB for\IN entering\VBG in\IN Tsomoriri\NNP travellers\NNS require\VBP a\DT permission\NN letter\NN .\.
 htd3476	On\IN requesting\VBG this\DT permission\NN letter\NN can\MD be\VB obtained\VBN free\JJ from\IN the\DT deputy\NN collector\NN office\NN situated\VBN near\IN of\IN the\DT polo\NN ground\NN of\IN Leh\NNP .\.
